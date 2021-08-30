@@ -1,2 +1,4 @@
 # react-todo
-Created with CodeSandbox
+
+2021-08-31<br/>
+Udemy 講座にて作成
